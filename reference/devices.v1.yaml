@@ -74,14 +74,6 @@ paths:
 components:
   schemas: {}
   parameters:
-    accountid:
-      schema:
-        type: string
-        example: jetsonsFutureHome
-      name: accountid
-      in: path
-      required: true
-      description: "unique per account (see `'My Account'` for more information)"
     spaceid:
       schema:
         type: string
