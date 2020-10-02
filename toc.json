@@ -50,7 +50,7 @@
         },
         {
             "type": "divider",
-            "title": "End Result"
+            "title": "API"
         },
         {
             "type": "item",
@@ -63,12 +63,12 @@
         },
         {
             "type": "item",
-            "title": "Models",
+            "title": "Devices",
             "uri": "/models/device.v1.json"
         },
         {
             "type": "item",
-            "title": "Models",
+            "title": "Response Code",
             "uri": "/models/responseCode.v1.yaml"
         }
     ]
