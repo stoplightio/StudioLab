@@ -1,0 +1,61 @@
+{
+    "items": [
+        {
+            "type": "divider",
+            "title": "Studio Lab"
+        },
+        {
+            "type": "item",
+            "title": "Introduction",
+            "uri": "/docs/Introduction.md"
+        },
+        {
+            "type": "item",
+            "title": "Training Environment",
+            "uri": "/docs/sections/1. Training-Environment.md"
+        },
+        {
+            "type": "divider",
+            "title": "Exercises"
+        },
+        {
+            "type": "item",
+            "title": "Studio UI",
+            "uri": "/docs/sections/2. Studio-UI.md"
+        },
+        {
+            "type": "item",
+            "title": "Create an API",
+            "uri": "/docs/sections/3. Create-an-API.md"
+        },
+        {
+            "type": "item",
+            "title": "Models",
+            "uri": "/docs/sections/4. Models.md"
+        },
+        {
+            "type": "item",
+            "title": "Endpoints",
+            "uri": "/docs/sections/5. Endpoints.md"
+        },
+        {
+            "type": "item",
+            "title": "Advanced Topics",
+            "uri": "/docs/sections/6. Advanced-Topics.md"
+        },
+        {
+            "type": "item",
+            "title": "Markdown",
+            "uri": "/docs/sections/7. Markdown.md"
+        },
+        {
+            "type": "divider",
+            "title": "End Result"
+        },
+        {
+            "type": "item",
+            "title": "Devices API",
+            "uri": "/reference/devices.v1.yaml"
+        }
+    ]
+}
