@@ -58,9 +58,18 @@
             "uri": "/reference/devices.v1.yaml"
         },
         {
+            "type": "divider",
+            "title": "Models"
+        },
+        {
             "type": "item",
             "title": "Models",
-            "uri": "/models"
+            "uri": "/models/device.v1.json"
+        },
+        {
+            "type": "item",
+            "title": "Models",
+            "uri": "/models/responseCode.v1.yaml"
         }
     ]
 }
