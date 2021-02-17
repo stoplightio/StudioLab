@@ -1,0 +1,5 @@
+title: example_from_studioLab
+type: object
+properties:
+  id:
+    type: string
